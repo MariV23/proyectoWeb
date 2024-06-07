@@ -1,0 +1,56 @@
+.principal{
+    height: 100%;
+    width: 100%;
+    /*background-color: #C4DBE1;*/
+}
+.divP2{
+    display: flex;
+    width: 600px;
+    height: 450px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.divIzq{
+    flex: 1;
+    padding: 20px;
+    position: relative;
+    align-content: center;
+    background-color: #d6e3e6;
+}
+.divDer{
+    flex: 1;
+    padding: 20px;
+    align-content: center;
+}
+.passw{
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 15px;
+    
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.user{
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn{
+    width: 150px;
+    height: 35px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
